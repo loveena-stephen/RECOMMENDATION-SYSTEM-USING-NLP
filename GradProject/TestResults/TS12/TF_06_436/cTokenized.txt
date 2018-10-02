@@ -1,0 +1,1 @@
+[['determin', 'nat', 'titl'], ['nat', 'titl']]

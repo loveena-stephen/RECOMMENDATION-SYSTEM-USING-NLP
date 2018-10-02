@@ -1,0 +1,1 @@
+[['appl', 'recov', 'less'], ['apply', 'recov', 'cost', 'ful'], ['appl', 'principl'], ['cost']]

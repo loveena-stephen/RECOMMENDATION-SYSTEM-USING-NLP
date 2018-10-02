@@ -1,0 +1,1 @@
+[['tend', 'evid'], ['not', 'requir'], ['prob', 'valu'], ['cas', 'man', 'consid'], ['tend', 'refus'], ['evid']]

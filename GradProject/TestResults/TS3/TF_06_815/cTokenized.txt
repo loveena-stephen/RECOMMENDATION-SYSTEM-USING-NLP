@@ -1,0 +1,1 @@
+[['apply', 'ann', 'sequest', 'ord'], ['pri', 'litig', 'fed', 'mag', 'court'], ['leav', 'issu', 'process', 'refus', 'upon', 'bas', 'app', 'jurid', 'bas'], ['bankruptcy']]

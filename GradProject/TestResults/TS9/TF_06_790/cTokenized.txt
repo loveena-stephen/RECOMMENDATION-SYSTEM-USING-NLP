@@ -1,0 +1,1 @@
+[['delay', 'com', 'tri'], ['default', 'delay', 'part', 'appl'], ['effect', 'delay', 'on', 'half', 'day'], ['cost', 'thrown', 'away', 'reason', 'lat', 'com', 'ord'], ['ord', 'cost', 'pay', 'forthwi'], ['cost']]

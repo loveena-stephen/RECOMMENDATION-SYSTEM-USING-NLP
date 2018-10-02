@@ -1,0 +1,53 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\MySavedData\LakeheadUniversity\Project_547854\ProjectCode\.metadata\.plugins\org.eclipse.core.resources\.projects\GraduateProject\com.python.pydev.analysis\v2_indexcache
+Evaluation|1510591263379951000|C:\MySavedData\LakeheadUniversity\Project_547854\ProjectCode\GraduateProject\Evaluation.py
+ProcessNewFile|1509586634293042000|C:\MySavedData\LakeheadUniversity\Project_547854\ProjectCode\GraduateProject\ProcessNewFile.py
+SimilarityMeasures|1509586605825584000|C:\MySavedData\LakeheadUniversity\Project_547854\ProjectCode\GraduateProject\SimilarityMeasures.py
+BatchProcessing|1511465695667748000|C:\MySavedData\LakeheadUniversity\Project_547854\ProjectCode\GraduateProject\BatchProcessing.py
+Preprocess|1509517755831442000|C:\MySavedData\LakeheadUniversity\Project_547854\ProjectCode\GraduateProject\Preprocess.py
+Common|1509593185234228000|C:\MySavedData\LakeheadUniversity\Project_547854\ProjectCode\GraduateProject\Common.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+1=ProcessNewFile
+3=Evaluation
+4=SimilarityMeasures
+5=Preprocess
+6=BatchProcessing
+2=Common
+-- END DICTIONARY
+-- START TREE 1
+28
+bas|1|baseTestPath!11@
+cal|1|calculateTF!18@
+che|4|check75!26@check100!26@check25!26@check50!26@
+cos|1|cosineSimilarity!34@
+dat|2|dataSet!19@dataSet!35@
+del|1|deleteFiles!18@
+dou|1|doubleScoring!10@
+fcf|2|fcfoundCalculation!42@fcfoundScoring!10@
+fil|2|filterWords!18@filewriter!51@
+fin|2|findCosineSim!34@findJaccardSim!34@
+fla|1|flattenList!18@
+fre|1|freqVector!34@
+get|3|getPreprocessInfo!18@getFileName!18@getNewFileInfo!18@
+idf|1|idfCalculation!42@
+lcc|1|lccs!18@
+mai|4|main!42@main!10@main!34@main!26@
+par|3|parseTextFile!18@parseXml!42@parseXmlFile!18@
+pro|2|processText!42@processNewFile!10@
+rea|1|readToType!18@
+res|1|resultFolder!19@
+roo|1|root!19@
+tes|3|testFileId!19@testSet!51@tests!19@
+tfi|2|tfidfScoring!10@tfidfVector!34@
+tok|3|token_s!19@token_c!19@token_c!35@
+tra|2|trainSetId!19@trainSet!19@
+txt|3|txt_c!35@txt_s!19@txt_c!19@
+wri|1|writeToFile!18@
+xml|1|xml_files!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
